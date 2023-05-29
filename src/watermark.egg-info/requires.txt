@@ -1,0 +1,16 @@
+pandas
+numpy
+PyYAML
+scikit-learn
+matplotlib
+python-dotenv
+yapf
+seaborn
+ipywidgets
+psycopg2-binary
+sqlalchemy
+googleAPI
+openpyxl
+unidecode
+jellyfish
+autopep8
